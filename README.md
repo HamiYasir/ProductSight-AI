@@ -94,7 +94,7 @@ The system is designed to demonstrate how Machine Learning models can be deploye
 
 ### Architecture Diagram
 
-![architecture_diagram](assets\architecture-diagram.png)
+![architecture_diagram](assets/architecture-diagram.png)
 
 ### Sentiment Analysis Pipeline
 
