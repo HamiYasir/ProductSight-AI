@@ -1,0 +1,1 @@
+Create a bucket. Inside the bucket, create the folder bert-sentiment-model/models/bert-sentiment. Inside bert-sentiment, upload BERT-model-to-host-in-s3.tar.gz
